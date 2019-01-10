@@ -1,24 +1,24 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Anselmo S Ribeiro
+twitter_username: 
+name: Anselmo S Ribeiro
 
 # Build settings
-markdown: kramdown
+markdown: markdown
 
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+   url: 
  - title: GitHub
-   url: https://github.com/robhinds
+   url: 
  - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
+   url: 
  - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: 
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1 
+   url: https://github.com/6975usa
 
 #Any buzzword skills you want to include
 skills:
