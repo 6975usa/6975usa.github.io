@@ -62,10 +62,10 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Mathematics (Bachelor)
+   date: 2005
+   subject: Geometry, Analisys and Computer Science
+   school: University of Brasilia, Brazil
 
 #This section is optional (as is the image link below)
 coursera:
