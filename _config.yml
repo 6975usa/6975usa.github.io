@@ -1,7 +1,7 @@
 # Site settings
-title: Anselmo S Ribeiro
+title: Selmo S Ribeiro
 twitter_username: 
-name: Anselmo S Ribeiro
+name: Selmo S Ribeiro
 
 # Build settings
 markdown: markdown
@@ -12,13 +12,9 @@ primarylinks:
  - title: Blog
    url: 
  - title: GitHub
-   url: 
+   url: https://github.com/6975usa
  - title: StackOverflow
    url: 
- - title: DZone
-   url: 
- - title: LinkedIn
-   url: https://github.com/6975usa
 
 #Any buzzword skills you want to include
 skills:
